@@ -1,0 +1,2 @@
+# miscellany
+ideas and resources
